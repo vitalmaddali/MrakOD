@@ -1,0 +1,9 @@
+F:\OrderProcessor\bin\Debug\netstandard2.0\OrderProcessor.deps.json
+F:\OrderProcessor\bin\Debug\netstandard2.0\OrderProcessor.dll
+F:\OrderProcessor\bin\Debug\netstandard2.0\OrderProcessor.pdb
+F:\OrderProcessor\obj\Debug\netstandard2.0\OrderProcessor.csprojAssemblyReference.cache
+F:\OrderProcessor\obj\Debug\netstandard2.0\OrderProcessor.csproj.CoreCompileInputs.cache
+F:\OrderProcessor\obj\Debug\netstandard2.0\OrderProcessor.AssemblyInfoInputs.cache
+F:\OrderProcessor\obj\Debug\netstandard2.0\OrderProcessor.AssemblyInfo.cs
+F:\OrderProcessor\obj\Debug\netstandard2.0\OrderProcessor.dll
+F:\OrderProcessor\obj\Debug\netstandard2.0\OrderProcessor.pdb
